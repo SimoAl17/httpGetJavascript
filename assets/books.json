@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Fabbricante di lacrime",
+        "author": "Erin Doom",
+        "genre": "Narrativa",
+        "publisher": "Magazzini Salani",
+        "price": 15.10
+    },
+    {
+        "title": "Jujutsu Kaisen",
+        "author": "Gege Akutami",
+        "genre": "Manga",
+        "publisher": "Panini Comics",
+        "price": 4.66
+    },
+    {
+        "title": "La Canzone di Achille",
+        "author": "Madeline Miller",
+        "genre": "Narrativa",
+        "publisher": "Marsilio",
+        "price": 11.40
+    },
+    {
+        "title": "Violeta",
+        "author": "Isabel Allende",
+        "genre": "Narrativa",
+        "publisher": "Feltrinelli",
+        "price": 20.00
+    },
+    {
+        "title": "La nostra cucina. Fatto in casa da Benedetta ricette e storie",
+        "author": "Benedetta Rossi",
+        "genre": "Culinaria",
+        "publisher": "Mondadori",
+        "price": 18.90
+    }
+]
